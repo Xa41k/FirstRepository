@@ -1,2 +1,2 @@
 # FirstRepository
-# Big description
+Опис змінюватиму залежно від виконуваної роботи.
